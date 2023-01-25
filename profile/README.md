@@ -1,14 +1,14 @@
 # Juan Palma Portfolio
 
-Welcome to my personal Portfolio. 
+Welcome to my Portfolio. 
 
-Here you will find projects that I worked on in the recent years to show what I am capable to do and also documented my professional progress. The Portfolio contain a list of respositories listed by year and name of the project, find the names in the following list:
+Here you will find projects I worked on in recent years to show what I am capable of doing and document my professional progress. The Portfolio contains a list of repositories listed by year and name of the project; find the names in the following list:
 
-* 2022 Final Project of Master in Data Analytics: Graph Analysis applied to Political phenomenom **[Python|Web scraping|pandas|Networkx|Cosine similarity|Greedy modularity cluster]** [Link](https://github.com/jppalmab-Portfolio/2022z_Final-Project-MSc-in-Data-Analytics)
+* 2022 Final Project of Master in Data Analytics: Graph Analysis applied to Political phenomenon **[Python|Web scraping|pandas|Networkx|Cosine similarity|Greedy modularity cluster]** [Link](https://github.com/jppalmab-Portfolio/2022z_Final-Project-MSc-in-Data-Analytics)
 
 * 2022 Deep Learning Brain Tumour Image Classification using CNN **[Python|Keras|CNN]** [Link](https://github.com/jppalmab-Portfolio/2022_Deep-Learning-Brain-Tumour-Image-Classification-using-CNN)
 
-* 2022 Sales Lead Convertion Predictive Analytics Reports **[R|SVM|Tableau]** [Link](https://github.com/jppalmab-Portfolio/2022_Sales-Lead-Convertion-Predictive-Analytics-Reports)
+* 2022 Sales Lead Conversion Predictive Analytics Reports **[R|SVM|Tableau]** [Link](https://github.com/jppalmab-Portfolio/2022_Sales-Lead-Convertion-Predictive-Analytics-Reports)
 
 * 2021 Sample Frame for the population over 18 years in Chile **[Python|Document scraping|Decrypting|Programming]** [Link](https://github.com/jppalmab-Portfolio/2021_Sample-Frame-for-the-population-over-18-years-in-Chile)
 
