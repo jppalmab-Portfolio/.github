@@ -1,8 +1,8 @@
 # Juan Palma Portfolio
 
-Welcome to my personal Portfolio. Here you will find projects that I worked on in the recent years to show what I am capable to do and also documented my professional progress.
+Welcome to my personal Portfolio. 
 
-The Portfolio contain a list of respositories listed by year and name of the project, find the names in the following list:
+Here you will find projects that I worked on in the recent years to show what I am capable to do and also documented my professional progress. The Portfolio contain a list of respositories listed by year and name of the project, find the names in the following list:
 
 * 2022 Final Project of Master in Data Analytics: Graph Analysis applied to Political phenomenom [Python|Web scraping|pandas|Networkx|Cosine similarity|Greedy modularity cluster] [Link](https://github.com/jppalmab-Portfolio/2022z_Final-Project-MSc-in-Data-Analytics)
 
