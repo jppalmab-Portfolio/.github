@@ -1,5 +1,6 @@
 # Juan Palma Portfolio
 
+
 Welcome to my Portfolio. 
 
 Here you will find projects I worked on in recent years to show what I am capable of doing and document my professional progress. The Portfolio contains a list of repositories listed by year and name of the project; find the names in the following list:
@@ -25,3 +26,10 @@ Here you will find projects I worked on in recent years to show what I am capabl
 * 2020 Top 10 Most Popular News of the Week **[Python|Web scraping|pandas|API Twitter]** [Link](https://github.com/jppalmab-Portfolio/2020_Top-10-Most-Popular-News-of-the-Week-)
 
 * 2020 Chilean National Football Tournament Analysis **[Python|Web scraping|pandas|Dynamic Graph-Racerplot]** [Link](https://github.com/jppalmab-Portfolio/2020_Chilean-National-Football-Tournament-Analysis)
+
+
+#### 📫 How to reach me 
+
+[![Email on Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jppalmab@gmail.com)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/jppalmab) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jppalmab/)
