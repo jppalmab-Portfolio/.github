@@ -6,10 +6,10 @@ Welcome to my Portfolio.
 Here you will find projects I worked on in recent years to show what I am capable of doing and document my professional progress. The Portfolio contains a list of repositories listed by year and name of the project; find the names in the following list:
 
 ### 1. [2022 Final Project of Master in Data Analytics: Graph Analysis applied to Political phenomenon](https://github.com/jppalmab-Portfolio/2022z_Final-Project-MSc-in-Data-Analytics)
-`[Python | Web scraping | pandas | Networkx | Cosine similarity | Greedy modularity cluster]` 
+`[Python | Web scraping | Pandas | Networkx | Cosine similarity | Greedy modularity cluster]` 
 
 ### 2. [2022 Deep Learning Brain Tumour Image Classification using CNN](https://github.com/jppalmab-Portfolio/2022_Deep-Learning-Brain-Tumour-Image-Classification-using-CNN)
-`[Python | Keras | CNN]`
+`[Python | TensorFlow- Keras | CNN]`
 
 ### 3. [2022 Sales Lead Conversion Predictive Analytics Reports](https://github.com/jppalmab-Portfolio/2022_Sales-Lead-Convertion-Predictive-Analytics-Reports)
 `[R | Support Vector Machine | Tableau]`
