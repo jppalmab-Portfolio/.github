@@ -9,7 +9,7 @@ Here you will find projects I worked on in recent years to show what I am capabl
 `[Python | Web scraping | Pandas | Networkx | Cosine similarity | Greedy modularity cluster]` 
 
 ### 2. [2022 Deep Learning Brain Tumour Image Classification using CNN](https://github.com/jppalmab-Portfolio/2022_Deep-Learning-Brain-Tumour-Image-Classification-using-CNN)
-`[Python | TensorFlow- Keras | CNN]`
+`[Python | TensorFlow-Keras | CNN]`
 
 ### 3. [2022 Sales Lead Conversion Predictive Analytics Reports](https://github.com/jppalmab-Portfolio/2022_Sales-Lead-Convertion-Predictive-Analytics-Reports)
 `[R | Support Vector Machine | Tableau]`
