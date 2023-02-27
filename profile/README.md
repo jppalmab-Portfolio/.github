@@ -17,7 +17,7 @@ Here you will find projects I worked on in recent years to show what I am capabl
 ### 4. [2021 Sample Frame for the population over 18 years in Chile](https://github.com/jppalmab-Portfolio/2021_Sample-Frame-for-the-population-over-18-years-in-Chile)
 `[Python | Decrypting | Remove Watermark | Document scraping | Programming]`
 
-### 5. [2021 Automatisation cleaning dataset from CATI](https://github.com/jppalmab-Portfolio/2021_Automatisation-cleaning-dataset-from-CATI-)
+### 5. [2021 Automation cleaning dataset from CATI](https://github.com/jppalmab-Portfolio/2021_Automation-cleaning-dataset-from-CATI)
 `[Python | Regex | Programming]`
 
 ### 6. [2021 Machine Learning Models applied to Car Industry](https://github.com/jppalmab-Portfolio/2021-Machine-Learning-Models-applied-to-Car-Industry)
