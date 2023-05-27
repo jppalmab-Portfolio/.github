@@ -1,9 +1,19 @@
 # Juan Palma Portfolio
 
+Welcome to my Data Science Portfolio Organization! Here, you'll find a collection of meticulously crafted projects designed to showcase my expertise in programming and data analysis.
 
-Welcome to my Portfolio. 
+As a dedicated data scientist, I've honed my skills in Programming, statistics, machine learning, and data visualization. Through this portfolio, I aim to demonstrate my ability to extract actionable insights from complex datasets and provide innovative solutions to real-world problems.
 
-Here you will find projects I worked on in recent years to show what I am capable of doing and document my professional progress. The Portfolio contains a list of repositories listed by year and name of the project; find the names in the following list:
+## Key Features:
+
+- Diverse range of data-driven projects
+- Demonstrations of programming skills in Python
+- Application of statistical analysis techniques
+- Utilization of machine learning algorithms
+- Creation of compelling data visualizations
+- Real-world problem-solving through data-driven approaches
+
+## Projects Included:
 
 ### 1. [2023 Top most voted question at Stackoverflow website](https://github.com/jppalmab-Portfolio/Stackoverflow-Python)
 `[Python | Web scraping | Stackoverflow]` 
@@ -41,7 +51,15 @@ Here you will find projects I worked on in recent years to show what I am capabl
 ### 11. [2020 Chilean National Football Tournament Analysis](https://github.com/jppalmab-Portfolio/2020_Chilean-National-Football-Tournament-Analysis)
 `[Python | Web scraping | Pandas | Racerplot]`
 
-<br/>
+## How to Explore:
+
+1. Visit our organization's repository and navigate to the project of your interest.
+1. Each project is organized in a separate directory and accompanied by a detailed README file.
+1. Review the project description, objectives, and methodologies used.
+1. Dive into the code and explore the scripts and Jupyter Notebooks provided.
+1. Examine the datasets utilized and gain insights into their structure and content.
+1. Study the analysis techniques employed and the visualizations created.
+1. Engage with the projects by raising issues, providing feedback, or suggesting improvements.
 
 ## 📫 How to reach me 
 
