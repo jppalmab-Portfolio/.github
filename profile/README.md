@@ -22,6 +22,8 @@ As a dedicated data scientist, I've honed my skills in Programming, statistics, 
   `[Python | Web scraping | LLM | Quarto]`
 - Conciliorbot assitant to connect political service and help the local community living in Ireland. State: **Developed**.<br/>
   `[Python | LLM]`
+- Job seeker application: Cover Letter Writer Assistant using ChatGPT. State: **Developed**.<br/>
+  `[Python | ChatGPT]`
 
 ### 1. [2023 Top most voted question at Stackoverflow website](https://github.com/jppalmab-Portfolio/Stackoverflow-Python)
 `[Python | Web scraping | Stackoverflow]` 
